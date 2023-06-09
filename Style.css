@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(90deg, rgba(213, 217, 3, 1) 0%, rgba(14, 241, 108, 1) 53%, rgba(4, 250, 243, 1) 100%);
+}
+
+.Kalam-img {
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 70px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    line-height: 25px;
+    margin-bottom: 100px;
+}
+
+.img-div {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.kalam-name {
+    text-align: center;
+    font-size: large;
+    margin-top: 30px;
+    line-height: 60px;
+}
+
+.img-div h1 {
+    font-size: 2rem;
+}
+
+.container-heading {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.container-text {
+    line-height: 30px;
+}
+
+.li-tag {
+    margin-left: 20px;
+}
+
+.bottom-container {
+    margin-top: 50px;
+    text-align: center;
+    opacity: 0.8;
+    color: aliceblue;
+    background-color: black;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.bottom-container a {
+    color: rgb(212, 97, 200);
+}
